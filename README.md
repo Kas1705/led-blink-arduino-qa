@@ -166,7 +166,7 @@ led-blink-qa/
 
 ## 👤 Author
 
-**Aditya**
+**Kishan**
 🎓 B.Tech E&TC, MIT Academy of Engineering, Alandi, Pune
 📘 Course: Project Management (2307476T), Semester VII
 
